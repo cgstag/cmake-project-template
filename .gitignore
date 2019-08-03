@@ -47,8 +47,9 @@ test/test_runner
 
 ## Local 
 
-.idea/workspace.xml
+.idea/*
 
+build/manual/*
 build/release/*
 build/debug/*
 build/run/*
